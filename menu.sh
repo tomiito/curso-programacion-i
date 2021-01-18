@@ -23,4 +23,9 @@ greet() {
    echo "Hola mundo"
 }
 
+die(){
+  echo "Saliendo del programa"
+  exit 0
+}
+
 menu
