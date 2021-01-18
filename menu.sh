@@ -19,4 +19,8 @@ menu() {
   echo "Mostrando..." 
 }
 
+greet() {
+   echo "Hola mundo"
+}
+
 menu
