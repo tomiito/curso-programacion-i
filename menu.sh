@@ -23,8 +23,4 @@ greet() {
    echo "Hola mundo"
 }
 
-die(){
-  exit 0
-}
-
 menu
